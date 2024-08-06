@@ -1,0 +1,56 @@
+O: STIMA DHI LAL EIMBO MAR KENYA DUTO ODIECHIENG MAKAWUONO KOD ODIECHIENG’ MAKINY CHAKORE SAA ACHIEL OKINYI NYAKA SAA APAR GACHIEL MIDHIAMBO.
+T: Stima zitapotea kote nchini Kenya siku ya leo mpaka kesho kuanzia saa moja hadi saa kumi n moja jioni.
+O: KAMBI MAR KENYA POWER DHI LORO LAI MAR STIMA MA LESSOS-LANET MONDO OTIMNE GUNDHO MANYALO MIYO STIMA CHOPO MAKARE NE JOPINY.
+T: Kampuni ya Kenya Power itafunga mkondo wa stima wa Lessos-Lanet ili ifanyiwe ukarabati wa kipekee inayoweza kufanya stima iwafikie wananchi vizuri.
+O: CHIENRO DHI WEYO KA STIMA OLAL KINY GI JUMAPIL E KAKAMEGA,KISUMU, BUSIA, BUNGOMA, VIHIGA,SIAYA, HB, MIGORI, KISII, NYAMIRA, BOMET, KERICHO, ELGEYO MARAKWET, UASIN GISHU, TRANS NZOIA
+T: Mpango huo utafanya umeme upotee kesho na jumapili ndani ya Kisumu, Kakamega, Busia, Bungoma, Vihiga, Siaya, Homabay, Migori, Kisii, Bomet, Kericho, Elgeyo Marakwet, Uasin Gishu Na Trans-Anzoia.
+O: JATEND PINY OWACHO MIGOSI UHURU KENYATA TIMOMEDO MANA CHUNG’ KAR TIENDE KENDO SIRO OKANG’ MANE OKAWO NYORO ELORO WUOTH MADONJO KENDO WUOK ECOUNTIES MOKO 5 PACHOAK MALANDRUOK MAR TUO MAR CORONA SANI KORO NIE MALO
+T: Rais Uhuru Kenyatta amesema kuwa ataendelea kuchukua msimamo wake na kuunga mkono mikakati aliyochukua jana kufunga safari za kuingia na kutoka katika kaunti tano za humu nchini ambazo msambao wa ugonjwa wa korona umezidi.
+O: KOLOSO EBOMA MA NAIROBI KER KENYATA OWACHO NI OKANG’ ONOGO NE OKEL KOD  PARO MAKENDE MANE OGOLNE KOD JOLOY EWECHE MAG THIETH
+T: Akizungumza jijini Nairobi, rais Kenyatta amesema kwamba mikakati hiyo ililetwa na fikra za kipekee zilizotolewa nan a wataalamu wa matibabu.
+O: \KER\OLERO NI EKIND JI 100 MASANI KORO IPIMO TUONO JI MAROMO 2O EKINGI IYUDO KOD TUONO MAR CORONA KOLERO N I THOTH JOGOO WUOK ECOUNTY MA NAIROBI
+T: Rais amesema kuwa watu 20 wanapatikana na ugonjwa wa Corona katika idadi ya watu 100 wanaopimwa sasa huku akieleza kuwa wengi wao wanatoka katika kaunti ya Nairobi.
+O: \KER\NE ONYISO HUM MARE KALUWORE KOD MEDRUOK EKWAN MAG JII MASANI KORO THOO KALUWORE KOD TUONO KA KWAN MAG JII MASANI KORO YUDO THIETH EUTE THIETH PACHOKA KALUWORE KOD TUONO WACH MA KER  LER0O NI OK BER AHINYA KOD PINY KENYA
+T: Rais aliwasilisha wazo lake kulingana na kuongezeka kwa idadi ya watu ambao sasa wanaaga kutokana na ugonjwa huo na idadi ya watu wanaopata matibabu hospitalini humu nchini kwasababu ya ugonjwa huo jambo ambalo Rais amesema kuwa si nzuri sana na nchi ya Kenya.
+O: \KER\JATEND PINY OWACHO MOLUOR UHURU KENYATTA KOD MIN ODE MIKAI MARGRET KENYATTA KAWUONO OCHANJI NE TUO MAR CORONA.
+T: Rais Uhuru Kenyatta pamoja na mke wake Bi. Margaret Kenyatta walipata chanjo ya Corona leo.
+O: JOTEND MIGEPE MAGE BENDE OYUDO CHANJONO ENYASI MANE OBAG E STATE HOUSE NAIROBI
+T: Wakuu wa wizara pia wamepata chanjo hiyo katika sherehe iliyoandaliwa ikuluni Nairobi.
+O: JOTEND MIGEPE MANE OCHANJ ORIWO DR.FRED MATIANG’I KOD JATEND MIGAWO MAR THIETH MUTAHI KAGWE.
+T: Wakuu wa wizara waliopata chanjo ni wakiwemo Dkt. Fred Matiang’i  pamoja na mkuu wa wizara ya afya Mutahi Kagwe.
+O: JATEND PINY OWACHO NE OGOLO CHIK NE JOTEND MIGEPE KOD JODITO DUTO MAG PINY OWACHO MONDO ONE NI OCHANJGI NE TUO MAR CORONA.
+T: Rais amesema kuwa alitoa amri kwa wakuu wa wizara pamoja na viongozi wote wa serikali ili waone kuwa wamechanjwa dhidi ya ugonjwa wa korona.
+O: MAE TIMORE SAMA KAWUONO CORONA ONEGO JI 6 KA JI 2,008 OYUD GI TUONO ESECHE 24 MOKADHO.
+T: Hili lilitendeka leo wakati ambapo Corona imewauwa watu 6 na watu 2008 wakipatikana na ugonjwa huo katika masaa 24 yaliyopita.
+O: CHAL MAR SIASA EWI SENETORS 6 MOGWEL MAG DUON BURA MAR JUBILEE MANE OGOL CHIK MONDO NE RIEMBI EDUON BURANO SANI KORO JOMEDO MANA YUDORE KAMA TEK
+T: **** Muonekano kuhusu maseneta sita waheshimiwa wa chama cha Jubilee waliotolewa sheria ili wafukuzwe kutoka kwa chama hicho sasa wanaendelea kujikuta pabaya.
+O: MAEN BANG’ KA APUT MAWINJO YUAGRUOK MAG DUON BUCHE MAG SIASA RWAKO PARO MANE OGOL KOD KAMITEE MACHIWO KUM EDUOND BURANO MONDO MI  ORIEMBI SENETORS 6GO KORIWO ISACK MWAURA, MILICENET OMANGA KOD MAMOKO
+T: Hii ni baada ya jopo linalosikiliza kilio cha vyama vya siasa kuweka fikra lililotolewa  na kamati linalotoa hukumu katika chama hicho ili maseneta hao sita wafukuzwe wakiwemo Isack Mwaura, Millicent Omanga na wengineo.
+O: SENETORSGO KORO JODHI WITO KOMBE MAGI EOD BURA MAR SENATE KA APUT ONOGO OWACHO NI DUOND BURANO NENIKARE MAR RIEMBOGI EJUBILEE BANG’ KAYANDE GIDHI ATARO KOD CHIKE MAG DUON BURANO
+T: Maseneta hao sasa watapoteza nafasi na viti vyao katika bunge la seneti ikiwa jopo hilo litaunga mkono kwa kusema kuwa chama hicho kikifanya jambo nzuri kuwafukuza katika chama cha Jubilee baada ya maseneta hao kuenda kinyume na sheria za chama hicho.
+O: APUT ONOGO KORO CHANO MAR DHI NDIKO NE DUOND BURANO MAR JUBILEE MABANG’E BIRO DHI NDIKPO NE REGISTRA MAR DUON BUCHE MAG SIASA MONDO MI ORUCH OKO NDIKRUOK MAG SENETORS 6GO
+T: ****Jopo hilo sasa linapanga kuenda kuandikia chama hicho cha Jubilee ambayo baadaye itamuandikia **mwenyekiti** wa vyama vya siasa ili wafute usajili wa maseneta hao sita.
+O: OKANG’ ONOGO KORO NYISO NI SENETORSGO IBIRO DHI GOL OK EOD BURANO KA SENETORS GO KOTELENGI KOD MILICENT OMANGA JOWACHO NI OK GINI DOG CHIEN ESIRO JALUP KER WILIAM RUTO LWEDO MOTELO NE YIERO MA 2022
+T: Sheria hiyo sasa inasema kuwa hao maseneta watatolewa katika chama hichokama maseneta wakiongozwa na Millicent Omanga aliyesema kuwa hawatarudi nyuma katika kumuunga mkono naibu wa rais William Ruto katika uchaguzi wa 2022.
+O: KWETH MAG JOOD BURA KAACHIEL KOD JOTELO MAJOWUOK EGWENGE  MA IPIDHE JAMNI JOSINGO MAR DHI WUOTHO KANYAKLA KENDO SIRO LWEDO DUON BURA MAR KANU
+T: Mkutano wa wabunge pamoja na viongozi kutoka maeneo ya ukulima wameahidi kuunga mkono chama cha KANU.
+O: KAGILOSO EKINDE ROMO MANE OBAGI EKINGI KOD JAKOM DUYON BURANO GEDION MOI.
+T: Walizungumza katika mkutano ulioandaliwa na mwenyekiti wa chama hicho Gideon Moi.
+O: GIWACHO NI THOTH WECHE MANE CHANDOGI SANI KORO OSEKONY KET KARE
+T: Walisema ya kwamba mambo yote yaliyokuwa yakiwasumbua yameshughulikiwa.
+O: KOR KAKORE SENETOR MOI NE OLERO NI POD OBIRO NENO NI WECHE DUTO AMCHANDO OGANDANO OBI OKET KARE
+T: Seneta Moi kwa upande wake alisema kuwa atahakikisha kuwa mambo yote yanayowasumbua raia yatashughulikiwa.
+O: OGANDA E COUNTY MA KISUMU OJIW OYIE OMIGI CHANJO MAR CORONA MA OKEL GI PINY OWACHO
+T: Wananchi katika kaunti ya Kisumu wameombwa kupata chanjo ya Corona iliyoletwa na serikali.
+O: JATAA TIJE MADUONG’ EKAR THIETH MA JARAMOGI OGINGA ODINGA TEACHING AND REFERAL HOSIPTAL LAKTAR GEORGE RAE OLERO NI TIELO MAR 3 MAR CORONA RACH
+T: Mkurugenzi wa hospitali ya rufaa ya Jaramogi Oginga Odinga Daktari Rae George ameeleza kuwa wingu la tatu la corona ni hatari.
+O: OKUAYO JOPINY MONDO OLURE GI CHIKE MAG KEDO GI TUO MAR CORONA.
+T: Amewaomba wananchi kufuata sheria za vita dhidi ya ugonjwa wa Corona.
+O: LAKTAR RAE OLERO NI CHANJONO SANI ICHIWO NE JOHIGNI 58 KADHI NYIME KENDO ONEGO GI CHOP OCHANJGI.
+T: Daktari Rae amesema kuwa watu walio na umri 58 na kuendelea wanafaa kuendea chanjo.
+O: KOLOSO EOD THIETHNO KINDE MA JOPUONJ MAG MBALARIANY MA MASENO NE ODHI KAWO CHANJO MAR CORONA, LAKTAR RAE OLERO NI TIELO MAR 3 MAR CORONA OBIRO MAPEK KENDO NYAKA JOPINY KONY EKEDO KODE.
+T: Akiongea hospitalini wakati ambapo wahadhiri wa chuo kikuu cha Maseno walikuwa wanapewa chanjo ya Corona, Daktari Rae alieleza kuwa wingu la tatu la corona limekuja kwa ukali na wananchi wasaidie katika vita dhidi ya Corona.
+O: MCA MA OWAL E KISUMU MIKAI CONSOLATA OLLOWS MANE OMI CHANJO MAR CORONA OKUAYO MONDO JOPINY OMI LER EWI RACH TUONO MAR CORONA.
+T: Mheshimiwa Consolata Ollows ambaye ni MCA wa Owal, Kisumu aliyepewa chanjo ya Corona ametoa ombi ili wananchi wahamasishwe  kuhusu athari ya ugonjwa wa Corona.
+O: OKUAYO JOPINY KIK LUOR DHI E CHANJO.
+T: Amewaomba wananchi wasiogope kupewa chanjo.

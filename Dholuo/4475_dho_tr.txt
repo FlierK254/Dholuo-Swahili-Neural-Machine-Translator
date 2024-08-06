@@ -1,0 +1,34 @@
+O: SIGANA
+T: HADITHI
+O: Chon gi lala ne nitiere nyako moro miluongo ni Anyango.
+T: Hapo zamani za kale paliondokea msichana mmoja aliyekuwa akiitwa Anyango.
+O: Ne en nyako majaber ma jowuoi mwonyone olaw.
+T: Alikuwa msichana mrembo aliyekuwa akimezewa mate na wanaume.
+O: Nohere e skul kod jopuonj, jogweng’ kaachiel kod jodong gweng’ be nohere ahinya.
+T: Alipendwa shuleni na walimu, wanakijiji pamoja na wazee wa kijiji waliompenda sana.
+O: Bang’ kane otieko klas aboro, wuoi moro nowuonde.
+T: Baada ya kukamilisha darasa la nane, kijana Fulani alimdanganya.
+O: Wuoi ni ne en japuonj mane puonje e klas aboro.
+T: Kijana huyo alikuwa mwalmu aliyekuwa akimfunza katika darasa la nane.
+O: Japuonj ni nowuonde ma odhi kode pacho kama ne opango ot.
+T: Mwalimu huyu alimdanganya hadi akaenda naye nyumbani alipokuwa amepangisha nyumba.
+O: Kane gichako, dak neber nike negiyudo pesa maber.
+T: Walipoanza, walikuwa wakiishi maisha mazuri na kupata pesa vizuri.
+O: Pesa nomiyo anyango otamore winjo wach jonyuolne.
+T: Pesa zilimfanya Anyango akatae kuwasikia wazazi wake.
+O: Mamagi bende noweye onyise ni otim dwache.
+T: Mama yake alimuacha akamwambia afanye jinsi atakavyo.
+O: Bang' dweche ariyo Anyango noyudo ich to bang’ nyuol ngima nochako bet matek kode nikech chuore noweye to nokia kaka dotimre.
+T: Baada ya miezi miwili Anyango alipata ujauzito na baada ya kujifungua maisha yalianza kuwa magumu kwa sababu mume wake alimuacha na hakujua cha kufanya.
+O: Nothagore nikech noonge kata tich monyalo timo.
+T: Aliteseka kwa sababu hakuwa na kazi ambayo angeweza kufanya.
+O: Bang’ iga achiel dak buore notame manoidho nyamburko kodhi dala gi kama nonyuole.
+T: Baada ya mwaka mmoja maisha ya mjini yalimshinda na akapanda gari kurudi kijijini alikozaliwa.
+O: Nochopo oyudo ka jok mane osomogo nosetieko skul moyudo tich, nyaka jok mane ochayo be nenigi tich.
+T: Alifika akapata kuwa watu waliosoma naye wamekamilisha shule wakapata kazi, mpaka wale watu aliowadharau walikuwa na kazi.
+O: Ka nochopo e rangach, mingi nomor konene kata nokowinjo gima nonyise ndalo machon.
+T: Alipofika langoni, mama yake alifurahi alipomwona hata kama hakusikia alichokuwa akiambiwa hapo awali.
+O: Mingi nong’wonone moyiene ni odag kode kaachiel kod nyathine no.
+T: Mama yake alimsamehea akamkubalia aishi naye pamoja na huyo mtoto wake.
+O: Sigana ni puonjowa niya kik wabed jok mokwinji wach jomadongo to kik wasungre nikech ber ma wan go.
+T: Hadithi hii inatufunza kuwa tusiwe watu ambao hawasikii mawaidha ya watu wakubwa na tusijiringe kwa sababu ya urembo wetu.

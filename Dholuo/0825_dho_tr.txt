@@ -1,0 +1,70 @@
+O: JI 3 MAMINE OTHO BANG KA YIE MANE GIIDHO LOKORE KODGI E NAM LOLWE E SEME SUB-COUNTY "
+T: Wanawake watatu  wameaga  baada  ya  meli waliyopanda  kupinduka  nao  katika  ziwa  la  Lolwe  katika  kata  ndogo  ya  Seme.
+O: JAPUONJRE MAJA CLASS 5 OTHO TO JOWADGI 2 MANE OTINGO E APIKO OINYORE MARACH E MASIRA MAR APAYA KAKAMEGA "
+T: Mwanafunzi  wa  darasa  la tano ameaga  huku  wenzake wawili ambao  alibeba  kwenye  pikipiki  wameumia  vibaya  katika  ajali  ya barabara   Kakamega.
+O: IKRUOK NIKARE NE PENJ MAR CLASS 8 MICHAKO KINY. "
+T: Matayarisho yamo sawa sawa wa mtihani  wa  darasa  la 8  inayoanza hapo kesho.
+O: POLO ONEGO RAWERA MAJA HIGNI 14 URIRI, MIGORI COUNTY "
+T: Radi  imemuua  kijana  barobaro  wa  miaka  14 kule Uriri,  kaunti  ya  Migori.
+O: JI 3 MAMINE OTHO BANG KA YIE MANE GIIDHO LOKORE KODGI E NAM LOLWE  SEME SUB-COUNTY, KISUMU COUNTY. JI 2 POD OLAL EI NAM KA JI 3 NE ORES EKINDE MASIRANO.
+T: Wanawake  watatu wameaga  baada  ya  meli  waliyopanda  kupinduka  nao  katika  ziwa  la  Lolwe  katika  kata  ndogo  ya  Seme  kaunti  ya  Kisumu. Watu wawili  bado  wamepotea  ndani  ya  ziwa  hilo  huku  watu watatu wameokolewa  wakati  wa  ajali  hiyo.
+O: JOGO NEGIN WELO MANE ODHI ELIEL EGWENGEGO KA OWUOK E COUNTY MA NYANDARUA KENDO MANE ETHUOLO MARGI MOKUONGO MAR DHI EI NAM ESUORUOK GIYIE.
+T: Watu  hao  walikuwa  wageni  waliohudhuria  matanga  katika  sehemu  hiyo  kutoka  kaunti   ya  Nyandarua   tena  hii  ilikuwa  mara  yao  ya  kwanza  kuenda  ziwani  kuabiri  meli.
+O: JALUP RUOTH MA ARUNGO SUB-LOCATION SHADRACK OLUOCH OYANGO WACHNI.
+T: Naibu  wa  mkuu  wa  eneo ndogo  la  Arungo  Shadrack  Oluoch  amedhihirisha  jambo  hili.
+O: MIGOSI OLUOCH OLERO NI CHIENRO MAR MENYO DHI NYIME OKINYI MAKAWUONO MAR MANYO RINGE JI 2 MAPOD OLAL ENAM.
+T: Mheshimiwa  Oluoch  ameeleza  kuwa  shughuli  ya  kutafuta  miili ya  watu  hao  wawili  ambao  wamepotea  ziwani  bado  inaendelea.
+O: OKUAYO JOGO MADHI EI NAM MONDO KINDE KA KINDE OBED KALUWORE GI CHIKE NAM KAKA YOR GENGO MASICHE MAKAMAGO.
+T: Amewomba  wale  wanaoenda  ziwani  wawe  wakizingatia  kila  wakati  sheria  za  ziwa  kama  njia  ya  kuzuia  ajali  kama  hizi.
+O: JOGWENGNO YUAGO MASICHE MAG APAYA MASANI NGENY MOKADHO EGWENGEGO.
+T: Wakazi  wa   eneo  hilo  wamelilia  ajali  za  barabara  ambazo  kwa  sasa  ni nyingi   katika  eneo  hilo.
+O: IKRUOK DUTO OSERUMO MOTELO NE PENJ MAR CLASS 8, KENYA CERTIFICATE OF PRIMARY EDUCATION MAICHAKO KINY EPACHOKA MANGIMA.
+T: Matayarisho yameisha ya mtihani  wa  kitaifa  wa  darasa  la  8  ambayo  inaanza  kesho  nchini  kote.
+O: MIGAWO MAR SOMO OLERO NI IKRUOK OSEKET MAR NENO NI PENJ MAKAMANO ODHI OTIM EBUO CHIKE MAG KEDO GI MIDHUSI MAR CORONA.
+T: Wizara  ya  elimu  imeeleza  kuwa  matayarisho  yamewekwa  ya  kuhakikisha   kuwa  mtihani  huo  umefanywa  chini  ya  sheria  zinazopigania  virusi  vya  korona.
+O: OTESE PENJ MAG JOPUONJRE MILLION 1.9 MADHI TIMO KCPE KOD KCSE OSETER E SUB-COUNTIUES DUTO EPACHOKA MOTELO NE CHAKRUOK MAR PENJ.
+T: Karatasi  za  mtihani  wa watahiniwa  milioni  1.9  wanaoenda  kufanya  mtihani  wa  kitaifa  wa  KCPE  na  KCSE zimepelekwa  katika  kata  ndogo  zote  humu  nchini  mtawalia ili kuanza rasmi mtihani.
+O: JOPUONJRE 1,187.517 DHI TIMO PENJ MAR CLASS 8 CHAKORE KINY NYAKA TICH 3. APISAS 286,901 MORIWO SUPERVISORS KOD INVIGILATORS DHI TAYO PENJ MAKAMANO.
+T: Watahiniwa  1,187,517  wanaenda  kufanya  mtihani  wa  darasa  la  8  kuanzia  kesho  hadi  jumatano.  Maafisa  286,901  pamoja  na  wasimamizi  na  wakaguzi  wanaenda  kuongoza  mtihani  huo.
+O: JATEND MIGAWO MAR SOMO NGIRE GEORGE MAGOHA CHIENG TICH 5 NE OGOLO SIEM MAGER NE JOGO MANYALO BEDO GI PARO MAR KWALO PENJ NI IBIRORAKRUOK KODGI GI CHIKE MAPACHOKA.
+T: Mkuu  wa  wizara  ya  elimu  Profesa  George  Magoha    siku  ya  ijumaa  alitoa  onyo  kali  kwa  wale  wanaoweza  kuwa  na  fikra   ya  kuiba  mtihani  kuwa watachukuliwa  hatua  za  kisheria  za  humu  nchini.
+O: POLO NE OGOYO MONEGO RAWERA MAWUOYI MAJA HIGNI 14 KA JOWADGI MAMOKO 3 NE OTONY KOD INYRUOK EGWENG MA NYAHERA ARAMBE E EAST KANYAMKAGO, URIRI SUB-COUNTY, MIGORI.
+T: Radi  ilimpiga  na  kumuua  kijana  barobaro  wa  kiume  wa  miaka kumi na mine huku wenzake watatu wakiponyoka  na  vidonda  katika  kijiji cha  Nyahera  Arambe  Kanyamkago  mashariki  katika  kata  ndogo   ya  Uriri,  Migori.
+O: KALUWORE GI JALUP RUOTH MAKONO MIGOSI OGINA OTWALA OLERO NI RAWERANO KOD JOWADGI 3 NE RIK OBUOK EKAR GEDO MORO MIDHIAMBO MANYORO KINDE MANE KOTH CHUE KINDE MA POLO NE OGOYE MONEGE
+T: Kulingana  na  naibu wa mkuu wa  kijiji  mheshimiwa  Ogina  Otwala  ameeleza  kuwa  kijana  huyo  na  wenzake watatu walikuwa  wamejikinga  mvua  katika  sehemu  ya  ujenzi  jioni  ya  jana  wakati  radi  ilimpiga.
+O: OLERO NI DHIANG MORO MANE NI MACHIEGNI BENDE POLO NE ONEGO
+T: Ameeleza  kuwa  ng’ombe  aliyekuwa  karibu  pia  alipigwa  radi  na  kufa.
+O: ROWERE 3 MANE OTONY GI INYRUOK NE ORING GODO ULANDA DISPENSARY KAPOK ORING KODGI MIGORI REFERAL HOSIPTAL KAMA NYAKA SANI GIYUDE THIETH
+T: Vijana watatu walioponyoka  na  madhara  walikimbizwa  katika  hospitali  ndogo  ya  Ulanda  kabla  ya  kuelekezwa  katika  hospitali  kubwa  ya  Migori  ambayo  wanapewa  matibabu  hadi  sasa.
+O: MANA JOPUONJ MANOK KENDE EMA OSEWUOK OKO MONDO OYUD CHANJO MAR CORONA E COUNTY MA MIGORI.
+T: Walimu  wachache  ndio  wamejitokeza  kupokea  chanjo  ya  korona  katika  kaunti  ya  Migori.
+O: MANA JOPUONJ 2 EMANE OSECHANJ NYAKA TICH 5 MOKADHONI E COUNTY MA MIGORI KALUWORE GI LIPOD MIGAWO MAR THIETH.
+T: Walimu wawili  pekee  ndio  wameshachanjwa  hadi  ijumaa  iliyopita  katika  kaunti  ya  migori  kulingana  na  ripoti  iliyopeanwa  na  wizara  ya  afya
+O: MAE TIMORE KATA OBEDO NI JOPUONJ NE OGOLO YUAK MONDO OKETGI E OPARA MAMBELE ECHANJO MAKAMANO.
+T: Haya  yanafanyika  hata  baada  ya  walimu  kutoa  malalamishi  yao  ili  waweke  kipaumbele  katika  upeanaji  wa  chanjo  hiyo.
+O: JATELO E KUPPET BADE MA MIGORI COUNTY HENRY OTUNGA OLERO NI MOKO KUOM JOPUONJ KOYO ODONJOP ECHUNYGI KALUWORE GI LIPOD MAIGOLO EWI CHANJO MAR ASTRAZENECA KENDO MANO EMAOMIYO THOTHGI LUOR DHI E CHANJO.
+T: Mkuu  wa  KUPPET  katika  kaunti  ya   Migori  Henry  Otunga  ameeleza  kuwa  baadhi  ya  walimu  wameingiwa  na  baridi  moyoni  mwao  kulingana  na  ripoti  iliyotolewa  kuhusu  chanjo  ya  Astrazeneka  tena   hiyo  ndiyo  imewafanya  kuogopa  kuenda  kupokea  chanjo.
+O: JO APIKO E KISUMU COUNTY OJIW OLOS RIWRUOGE MAG KUNGO KOD KENO KAKA YOR BERO NGIMAGI
+T: Watu  wa  pikipiki  katika  kaunti  ya  kisumu  wameimizwa  kutngeneza  muungano  wa  kuhifadhi  pesa  kama  njia  ya  kuboresha   maisha   yao.
+O: JATEND RIWRUOK MAR MWALIMU JAMES JAPHETH MWAMU FOUNDATION OKIL JAMES AGGREY MWAMU ONYISO JO APIKO NI RIWRUOGE MAKAMAGO KENDE EMANYALO LOKO NGIMAGI.
+T: Mkuu  wa  muungano  wa  mwalimu  James  Japheth  Mwamu  Foundation  wakili  James  Aggrey   Mwamu  amewaambia  watu  wa  pikipiki  kuwa  muungano  kama  hiyo  ndiyo itakayoboresha  maisha  yao.
+O: KOLOSO GI JO APIKO MAG KAR CHUNG OD BURA MA KISUMU EAST EKINDE POGOGI GIGE KEDO GI CORONA, OKIL MWAMU ONYISO JO APIKO NI RIWRUOGE MAKAMAGO NYALO KONYOGI YUDO HOLA MAGINYALO TIMOGO DONGRUOGE.
+T: Alipokuwa  akizungumza  na  watu  wa  pikipiki  katika  eneo  bunge  la  Kisumu  mashariki  wakati  walikuwa  wanawagawa  vifaa  vya  kujikinga  dhidi  ya  korona,  wakili  Mwamu  amewaambia  watu  wa  pikipiki  kuwa  muungano  kama  hiyo  inaweza  kuwasaidia  kukopa  pesa  wanayoweza  kufanyia  maendeleo.
+O: KUMACHIELO OKUAYO JO APIKO OLURE GI CHIKE MAOKETI MAG KEDO GI MIDHUSI MAR CORONA.
+T: Upande  mwingine  amewaomba  watu  wa  pikipiki  wazingatie  sheria  ambazo  zimewekwa  kukabiliana  na  virusi  vya  korona.
+O: OBILA MAR APAYA MANE OSEDHI ERUTAYA MANE OYUORO E NYASI MAKAMANO OKUAYO JO APIKO KINDE DUTO OLU CHIKE MAG APAYA.
+T: Afisa  wa  trafiki aliyekwisha  staafu  alihudhuria  sherehe  hiyo na  amewomba  watu  wa  pikipiki  kila  wakati  wawe  wakizingatia  sheria  za  barabarani.
+O: JONYUOL ONYIS KIK BED KOD TUNGNI GI JOPUONJRE MACHAKO PENJ KINY. JAPUONJ YUSUF LULE OGUTU OLERO NI PARO MA OKUE KENDE EMANYALO KONYO JOPUONJRE TIMO MABER EPENJ.
+T: Wazazi  wameambiwa  wasiwe  na  mtafaruku  na  watahiniwa  wanaoanza  mtihani  kesho. Mwalimu  Yusuf  Lule  Ogutu  amesema  kuwa  wazo  tuli  pekee  ndio  linaweza kuwasaidia  watahiniwa  kufanya  vyema  kwenye  mtihani .
+O: OKUAYO JONYUOL OKET JOPOPUONJRE MADHI TIMO PENJ MACHIEGNI AHINYA SANI MAGI KWANO MANA SECHE MONDO GIDONJ EOD PENJ.
+T: Amewaomba  wazazi waweke  watahiniwa  wanaoenda kufanya mtihani  karibu  nao sana haswa wakati  huu  ambao  wanahesabu tu masaa  ili kuingia   katika  vyumba   vya  mtihani.
+O: JOPUONJRE OKWA  KIK KWAL PENJ KA OLERO NI MANO NYALO MIYO INGADO DUOKOGI.
+T: Watahiniwa  wameombwa  kutoiba mtihani  kwa  kuwa  inawezawafanya  kutopata  matokeo  ya  mtihani   wao.
+O: JOPINY E HB COUNTY ONYIS ONEN MARIEK KENDO GIBI GIYIER MANA JOTELO MANYALO MIYOGI DONGRUOK.
+T: Wananchi  katika  kaunti  ya  Homa Bay  wameambiwa  waangalie  kwa  makini  na  kuchagua  viongozi  wanaoweza  kuwaletea  maendeleo.
+O: JOPINY CONGO BAGO YIERO MAR JATEND PINYNO KAWUONO. DUOND BURA MAKWEDO EPINY CONGO KATA KAMANO ONGANYO NE YIERONO.
+T: Wananchi  wa  Congo  wanafanya  uchaguzi  wa  rais  wa  nchi   hiyo  leo.  Hata  hivyo  chama  cha  upinzani  katika  nchi  hiyo  wameandamania  uchaguzi  huo.
+O: JATEND PINYNO DENIS SASSOU NGUESSO MAOSETAYO CONGO KUOM HIGNI 36 OCHUNG ETIELO MACHIELO.
+T: Rais  wa  nchi  hiyo  Denis  Sassou  Nguesso  ambaye  amekuwa  akiongoza  Congo  kwa  muda  wa  miaka thelathini na sita anawania  katika  uchaguzi  mwingine.
+O: NGUESO MAJAHIGNI 77 LARO KOMNO GI JI MAMOKO 6, KA KATA KAMANO IGENO NI ONYALO WUOK JALOCH. NGUESSO NE OTAYO CONGO CHAKORE HIGA 1979 NYAKA 1992 KAPOK OCHAKO OKAWO TELO HIGA 1997 BANG PUDHO ELOCH PASCAL LISOBA BANG TULO MAR SIASA EPINYNO.   '
+T: Ngueso wa  umri  wa  miaka sabini na saba anawania  kiti  hicho  pamoja  na  wengine  sita, ingawa  anatarajiwa  kutokea  mshindi. Nguesso  aliongoza Congo  kuanzia  mwaka  wa  1979  hadi   1992  kabla  ya  kuchukua  uongozi  tena   mwaka  wa  1997  baada  ya  kumtoa  ushukani  Pascal Lisoba  baada  ya  vita vya  kisiasa  nchini  humo.

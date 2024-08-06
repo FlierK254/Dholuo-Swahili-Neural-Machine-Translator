@@ -1,0 +1,50 @@
+O: OBILA MARAKORE GI OHAND YEDHE MAMEROJI ONDHIYO JAGO MORO GI YEDHE MAG HEROINE MABECHE ROMO SH.MILLION 2.
+T: Polisi wanaopeleleza biashara ya dawa za kulevya wamemkamata kijana mmoja na madawa ya heroine ambayo bei yake inafika shilingi milioni mbili.
+O: JUMA MOHAMED NE ONDHI MIDHIAMBO MANYORO EKAR IDHO FERRY MA LIKONI GIYEDHE MA KAMAGO.
+T: Juma Mohammed alikamatwa jioni ya jana katika kivuko cha Likoni na dawa za kulevya.
+O: NE OTEMO PANDO YEDHE MAKAMAGO E OFUKI KINDE MANE ITIMO PEKSEN NE JOGO MADONJO E FERRY GINO MANE OCHUNO JORITO MAG FERRY MONDO OLUONG OBILA MARAKORE GI YEDHE MAMEROJI.
+T: alijaribu kuficha dawa kama hizo mfukoni  walipokuwa wakikagua watu wanaoingia ndani ya kivuko jambo ambalo liliwafanya walinzi wa kivuko kuwaita polisi wa upelelezi wa madawa ya kulevya.
+O: OLORNE KA OBILA MA MOMBASA KA ICHANO CHUALE EDOHO KINY KA NONRO ORUMO.
+T: Amefungiwa kwa stesheni ya polisi ya Mombasa huku wakipang kumpeleka mahakamani kesho mahojiano yakiisha.
+O: \KISUMU\MANE EN SPEAKER E OD BUCH COUNTY MA KISUMU MIGOSI ONYANGO OLOO OKWEDO CHIK MAYANDE OCHIW MAKUMO IKO JOGO MOTHO EKUONDE DAK MOKIEWO GI BOMA MA KISUMU.
+T: Kisumu\Aliyekuwa spika wa bunge la kaunti ya Kisumu mheshimiwa Onyango Oloo amekashifu sheria iliyopeanwa ya kukataza kuwazika watu waliokufa katika maeneo ya kuishi inayopakana na mji wa Kisumu.
+O: OLOO MAJA MANYATTA E KISUMU OLERO NI CHIKNO DHI ATARO MAR KATIBA KAACHIEL GI KIT OGANDA LUO.
+T: Oloo ambaye ni mkaaji wa Manyatta ya Kisumu amesema kuwa sheria hiyo inakwenda kinyume na katiba na hata desturi ya jamii ya wajaluo.
+O: ONYISO TEND COUNTY MA KISUMU OWEK KOPO KIT DAK PINJE WASUNGE MAGIKETO KAOK GIKAWO PACH JOPINY.
+T: Ameiambia uongozi wa kaunti ya Kisumu kuwa iwache kunakili na kuweka desturi ya maisha ya nchi za wazungu bila ya kuchukua wazo la wananchi.
+O: OPUOYO OKINDE MAJO KISUMU MANE ODHI EDOHO KA KWEDO WACHNO.
+T: Amewasifu mawakili wa Kisumu waliokwenda mahakamani kukashifu mambo hayo.
+O: \UDA HOMA BAY\JOKANYO MAG DUOND BUCH UNITED DEMOCRATIC ALLIANCE(UDA) E HB COUNTY OPUOYO PARO MANTIERE MONDO GITI KANYAKLA GI ODM.
+T: UDA\HOMABAY\ Wenyeji wa chama chama cha United Democratic Alliance(UDA ) kaunti ya Homabay wameunga mkono wazo lililoko ili wafanye kazi pamoja na ODM.
+O: CORDINATOR MAR UDA E HOMA BAY COUNTY MIGOSI EVERREST OTIENO OKAMBO OLERO NI PARO MAKAMANO MA MOKO KUOM JODITO GOLO MONDO MIGOSI RUTO OTI KANYAKLA GI MIGOSI RAILA ODINGA BER KENDO NYALO KONYO LOSO PINY OWACHO MABIRO.
+T: Mratibu wa chama cha UDA kaunti ya Homabay mheshimiwa Everrest Otieno Okambo amesema kuwa wazo kama hilo linatolewa na wanachama ili mheshimiwa Ruto afanye kazi pamoja na mheshimiwa Raila Odinga  ni nzuri na linaweza kusaidia katika kujenga serikali mpya inayokuja.
+O: MIGOSI OKAMBO OLERO NI UDA SANI KAWO JOKANYO EKOR GWENGE KAKA YOR KETO DUOND BURANO MOTEGNO MOTELO NE YIERO MABIRO.
+T: Mheshimiwa Oambo ameeleza kuwa UDA sasa inachukua wakaaji wa vijiji vya hapo kama njia ya kuiweka chama hicho kuwa imara kabla ya uchaguzi unaokuja.
+O: KANISA E WACH  COVID 19
+T: Kanisa katika mambo ya Covid.
+O: UTE LAMO ONYIS OMED LUWO CHIKE MAG KEDO GI CORONA.
+T: Makanisa yameambiwa yaendelee kufuata sheria za vita dhidi ya corona.
+O: KER MAR KANISA SDA BADE MA LAKE VICTORIA FIELD PASTOR SAMSON OKWACH OLERO NI CORONA SANI OBIRO MAPEK KENDO OKENGE MA OSEKET MAR KEDO KODE NYAKA LUU EYO MAKARE.
+T: Mkuu wa kanisa la SDA tawi la Lake Viktoria Field mhubiri Samson Okwach amesema kuwa corona imekuja kwa nguvu na tena mikakati ambayo imewekwa ya kupiga vita dhidi yake lazima ifuatwe kwa namna ipasavyo.
+O: OLERO NI KAKA KANISA SDA E LAKE VICTORIA FIELD GISEKETO CHIENRO MAKARE MAR KEDO GI CORONA KA OKUAYO KANISE MA MOKO BENDE MONDO OLUU WACH MAKAMANO KAKA YOR RITO NGIMA JOPINY.
+T: Ameeleza kuwa kanisa la SDA ya Lake Viktoria Field wameweka mikakati sambamba ya vita dhidi ya Corona akiomba makanisa mengine pia wafuate mkondo kama huo kama njia ya kuwalinda wananchi.
+O: JOPUONJRE 2 MAG SECONDAR GIN MOKO KUOM JOMAUNDU MANE ONDHI GI OBILA MA KISUMU EKUONDE DAK MA MANYATTA KOD NYAMASARIA E KISUMU ETUDRUOK GI KUO KOD OHAND YEDHE MAMEROJI.
+T: Wanafunzi wawili wa shule ya upili ni kati ya wahalifu waliokamatwa na polisi wa Kisumu katika maeneo ya Manyatta na Nyamasaria ndani ya Kisumu kwa kuhusishwa na wizi pamoja na biashara ya dawa za kulevya.
+O: E APEDHA MODICH MAR OBILA, AKOTA 70 MAG NYASORE KOD MWANDU MAOKWAL MABECHGI THOTH BENDE NE OYUD GI GODO.
+T: Katika msako huo mkali wa polisi, fungu sabini za bangi pamoja na mali zilizoibwa ambazo bei yao ni ghali pia walipatikana nazo.
+O: E APEDHANO, OBILA OYUDO FRIDGES, GAS CYLINDERS, HOOFER, TV, COMPUTERS, MATRESS EKIND MWANDU BUORA MA ICHICH NI JOGO OSEBEDO KAKWALO KUOM JOPINY E KISUMU.
+T: Katika upelelezi huo, polisi walipatafriji, mitungi ya gesi, spika, runinga, kompyuta,godoro na vinginevyo miongoni mwa mali nyingi ambapo wanashuku kuwa watu hao wamekuwa wakiibia wakaaji wa Kisumu.
+O: JI ARIYO NE ONDHI E APEDHANO KA GIRIWO PHILIP OTIENO OKETCH MAJA HIGNI 20 KOD NYADENDI ASHANTI KADMALA MAJA HIGNI 18.
+T: Watu wawili wamekamatwa katika upelelezi huo akiwemo Phillip Otieno wa miaka ishirini na binti Ashanta Kadmala wa miaka kumi na nane.
+O: APEDHA MAR MANYO JOKUOGE WETEGI DHI NYIME E ALUORA MAR KISUMU.
+T: Upelelezi mkali wa kuwatafuta wezi wenzao bado unaendelea kote Kisumu.
+O: OLORNEGI ETESEND OBILA MA KASAGAM KANYAKLA KOD MWANDU MANE OJUKGI GODO.
+T: Wamefungiwa katika stesheni ya Kasagam na mali walizopatikana nazo.
+O: FACEBOOK OLORO ACCOUNTS MAG JATEND PINY VENEZUELA NICHOLAS MADURO KUOM NDIKO EMBUI MARE MAR FACEBOOK NI NITIERE YEDHE BUNGU MANYALO THIEDHO CORONA.
+T: Facebook imefunga akaunti za rais wan chi ya Venezuela Nicholas Maduro kwa kuandika katika  mtandao wake wa facebook kuwa kuna dawa za mitishamba ambazo zinaweza kutibu Corona.
+O: MIGOSI MADURO OK BINYALO NDIKO E FACEBOOK KUOM NDALO 30 KUOM NDIKO WACH MAKAMNO MA TEND FACEBOOK LERO NI ONGE ADIER KOD NENO MORO AMORA.
+T: Mheshimiwa Maduro hataweza kuandika/ kutumia facebook kwa muda wa siku thelathini kwa kosa la kuandika mambo kama hayo ambayo mkurugenzi wa facebook anasema kuwa hakuna ukweli wowote.
+O: FACEBOOK EKINDE MOKADHO NE OLORO ACCOUNTS MAG JATEND PINY MAERICA MACHON DONALD TRUMP EWI NDIKO GIGO MAOK NIKARE EWI TUO MAR CORONA.
+T: Hapo awali Facebook ilifunga akaunti ya rais wa kitambo wa Amerika Donald Trump kwa kuandika uongo kuhusu ugonjwa wa corona.
+O: BENDE NE GISELORO ACCOUNT MAR JATEND PINY BRAZIL JAIR BOLSONARO GIKETHO MAKAMAGO.
+T: Walifunga pia akaunti ya rais wa Brazil Jai Bolsonaro kwa sababu ya uharibifu kama huo.
